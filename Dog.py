@@ -37,7 +37,7 @@ class Dog:
 
         if self.HP <= 0:
             self.alive = False
-            print("Собака більше не з нами(")
+            print("Собака більше не з нами :(")
 
 
 dog = Dog()
